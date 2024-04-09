@@ -1,0 +1,12 @@
+.TaskForm{
+    margin: 40px 0;
+}
+
+.TaskForm label{
+margin-right: 10px;
+}
+
+.TaskForm input{
+    margin: 0 10px;
+}
+

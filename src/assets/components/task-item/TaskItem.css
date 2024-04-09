@@ -1,0 +1,17 @@
+.TaskItem{
+    border: 1px solid black;
+    border-radius: 5px;
+    margin-bottom: 10px;
+    width: 50%;
+    padding: 15px;
+}
+
+.TaskItem p{
+    margin-bottom: 0;
+    font-weight: 700;
+}
+
+.task-important{
+    background-color: rgba(255, 170, 170, 0.31);
+    border: 1px solid  rgb(255, 84, 84);
+}
